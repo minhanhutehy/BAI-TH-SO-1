@@ -28,7 +28,7 @@ class Diem
     {
         return Math.Sqrt(Math.Pow(B.x - this.x, 2) + Math.Pow(B.y - this.y, 2));
     }
-}
+}//jhgew
 
 //BÀI 2:
 class Employee
